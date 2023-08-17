@@ -1,0 +1,7 @@
+ansible 
+install NGINX  on Machine and Configure it to listen on port 8090 then change the  default page to custom index.html on  machines
+Depot your  app https://github.com/sabreensalama/dockerize-node-app-task on the machine
+-----
+
+
+
